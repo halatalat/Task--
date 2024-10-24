@@ -1,0 +1,80 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+
+
+
+
+/* start header section */
+   
+header {
+    
+    background-image: url(../img/pexels-anne-lorenz-20139557.jpg) ;
+    height: 550px;
+    background-size: cover;
+}   
+.content-header{
+    text-align: center;
+    margin-top: 10%;
+}
+.content-header h3{
+   font-size: 32px; 
+   font-family: cursive;
+   letter-spacing: 2px;
+   margin-bottom: 18px;
+}
+.content-header button{
+     font-size: 18px;
+     padding: 10px 26px;
+     border: none;
+     margin-right: 20px;
+     letter-spacing: 2px;
+     margin-top: 10px;
+     background-color: rgb(120, 24, 210);
+     color: #fff;
+     border-radius: 22px;
+}
+     
+     
+
+     
+
+
+
+/* End header section */
+
+
+/* start nav bar section */
+  nav a{
+
+    color: black;
+    text-decoration: none;
+    font-size: 25px;
+    margin-left: 20px;
+    margin-top:  20px;
+    display: inline-block;
+    font-family: cursive;
+
+  }
+  
+/* End nav bar section */
+
+
+/* start media section*/
+ .media{
+    text-align: center;
+ }
+
+
+ 
+
+
+ 
+ .media img{
+    width: 250px;
+    height: 300px;
+ }
+/* End media section*/
